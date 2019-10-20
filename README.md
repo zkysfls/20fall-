@@ -90,3 +90,44 @@ Q: 请问大家觉得 教授在套词信中说 申请的时候写上我的名字
 * 写上他的名字，你的材料就给他review，决定权就可以给他
 
 
+*****************
+
+Weekly Digest 2019.10.14-2019.10.20
+
+Q: 请问大家有没有在外国申请F1美签的经历呀？会有什么问题吗?
+
+* 首签只能在国内
+
+Q: 成绩单上没绩点怎么办?
+
+* 我觉得直接交，听说他们会按照自己的算法算
+
+暑研没那么严格的要求吧，我感觉就是看老师是不是需要一个劳动力（以及觉得你是不是一个够格的劳动力）
+
+Q: 请问有人当面要过推荐信吗？直接问老板最近在申grad school，愿不愿写推荐信就可以了吗？需要铺垫什么吗?
+
+* 如果是打工很久的老板，跟你很熟的，不需要铺垫吧
+
+Q: 大家有没有遇到过gre ets官网sign in system error的问题?
+
+* 退出再来一下就好了
+* 清缓存 关浏览器
+* 发个邮件？
+
+Q: 求问一下相比于sop，有的学校要交的ps是不是不太重要啊，就是说说个人经历什么的？
+
+* 那个是不是叫 phs
+* phs认真写, 别瞎写
+
+招生广告：
+
+UW-Madison: xiangyaoyu.net, 研究方向：数据库与体系结构
+
+http://dag.inf.usi.ch/  “我们组也在招博士 坐标瑞士Lugano。研究方向主要有程序分析（主要是动态分析）和JVM相关技术 跟Oracle Labs有很多合作 麻烦诸位如果有认识的有兴趣这方面研究想要读博的朋友 可以帮忙推荐一下 联系我就好”
+
+~Prof. Neil Gong from Duke University is looking for Ph.D students (starting in Fall 2020) and visiting scholars (starting anytime). The research area will be cybersecurity, privacy, and machine learning. The students can apply for either Electrical and Computer Engineering department or Computer Science department. Students with strong mathematical and programming skills are preferred. 
+
+Neil Gong received a Ph.D in Computer Science from the University of California at Berkeley. For more information, please visit his webpage: http://people.duke.edu/~zg70/.  Neil Gong enjoys working closely with students and helping students develop successful and productive Ph.D careers. 
+
+If interested in the position, please email CV and brief introduction to neil.gong@duke.edu
+
