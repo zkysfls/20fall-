@@ -174,3 +174,61 @@ Q: 想向大家问一件事情：有个学长和我说uc系列的某几所学校
 
 * 上届一个学长ucb和ucla都有了offer，这俩应该不冲突
 * 完全不会, 好学生都想要 凭啥让给其他人
+
+****************************************
+
+Weekly Digest 2019.10.28-2019.11.3
+
+Q: 请问一下各位，联系一个以前答应写推荐信的老师，在不明确其是否要自己写还是我写的情况下，是不是需要提供下自己的CV和申请的方向哈，谢谢
+
+* GPA achievement CV 一起打包发过去
+
+Q: 话说大家怎么选校的？
+
+* 教授帮忙选的
+* 给老师个list让老师挑
+* 自己找自己读过的paper
+
+Q: 如果五年中间老板没funding 怎么办, 这种事情方便和老师直接聊吗？有没有忌讳
+
+* 有的学校会一下子给完吧, 有的是分年
+* 有的老师有一年的钱就会招phd后面再想办法
+* 我觉得要问清楚
+
+Q: 请问一下有人遇见过 GRE 的 ets 官网 sign in system error 吗。。按他给的提示关浏览器+清除cookie后依然如此。。
+
+* 等等就好了, 特别日常。。。
+* 我是把cached history和coockie全清了就可以了
+* 记错用户名了也会system error，我之前用托福的用户名登录gre就一直报这个错
+* 这个是日常，ets不建议使用Chrome
+* 换一台电脑
+
+Q: PS大约要多长啊
+* 我老板说，1-2page，600-800吧
+* 别写那么多，没人会有那么多耐心看那么多字的，一页，八百字我觉得很不错了
+
+Q: 问一下怎么给自己写推荐信啊
+* 别吹太多，抓住一个细节狠着写，或者写之前采访一下老师，问问他对你印象最深的东西是什么
+
+Q: 想问下有人申UNC吗?UNC CS是强committee吗
+* 我去年申了，不是强committee
+
+招生广告
+
+UMass的ECE的刘通平组明年大概要招3-4名PhD学生。UMass的CE排名36，CS排名20，学生可以自由选CS的课程。研究方向包括计算机系统和安全，详情可见https://people.umass.edu/tongping/interests.html。有兴趣者请联系tongping@umass.edu
+
+具体的项目包括Improving Performance of Big Data Systems, System Support for Machine Learning Applications and Modern Architecture， Failure Automatic Diagnosis，Automatic Failure Elimination, Full Stack Scalability Analysis，and Mobile Computing。实验室的研究和实际应用紧密结合， 几乎每个项目最后都会同时申请专利。实验室的研究背景良好，目前几乎所有论文都发在计算机方向的顶级会议上，比如SOSP，OSDI，PLDI，USENIX Security，CCS，MICRO，ICSE等。值得一提的是，实验室在2017年和2018年两年就发表了包括PLDI‘18， Security’18， Micro‘18， SIGCSE‘18， CCS'17, ASE'17, EuroSys'17在内的5篇CCF的A类，1篇B类 。
+
+Yongjoo Park, joining the computer science department at the University of Illinois at Urbana-Champaign in 2020, Research interest:I research and build systems for large-scale data analytics and machine learning. I have led VerdictDB, a system that enables approximate query processing on top of any SQL engines, which we are turning to a commercial project. https://yongjoopark.com/
+
+Nathan Dautenhahn, Assistant Professor in Rice Computer Science, Research Interest: Systems security, operating systems, virtualization, program analysis, microarchitecture. https://nathandautenhahn.com/
+
+Yan Gu（顾研）2012年毕业于清华计算机系，同年进入卡内基梅隆大学（Carnegie Mellon University，CMU）攻读博士学位。2018年，顾研从 CMU 取得博士学位毕业，并开始在 MIT 进行了一年的博士后工作。他有多年的信息学竞赛和 ACM ICPC 经历和经验，并且曾经在计算机图形学，计算机理论，并行算法等多个研究方向都有成果和论文发表。
+
+Yihan Sun（孙艺瀚）2014年毕业于清华计算机系，并进入卡内基梅隆大学（Carnegie Mellon University，CMU）攻读博士学位。她在2019年从 CMU 取得博士学位毕业并进入 UC Riverside 成为助理教授。她曾在数据挖掘，计算生物学，计算机理论，并行算法，数据库等多个研究方向都有成果和论文发表。
+
+我们即将同时进入UC Riverside 计算机系，并希望和有兴趣的同学们一起组建起算法和并行计算实验室。http://people.csail.mit.edu/guyan/ https://www.cs.cmu.edu/~yihans/
+
+I will start as an assistant professor at UC Santa Barbara Computer Science since Fall 2020. I am actively looking for PhD students and postdocs that are interested in doing reasearch in the intersection of (database) systems, formal methods, and applied crypto. Please apply to UCSB CS and also send me an email at shumo@ucsb.edu. https://shumochu.com/
+
+杜克大学Danyang Zhuo教授招系统和网络方向的phd学生。有意者请email(danyangz@berkeley.edu)。希望寻找对研究有热情，编程功底好的学生。
