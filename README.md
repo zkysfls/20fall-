@@ -221,7 +221,6 @@ UMass的ECE的刘通平组明年大概要招3-4名PhD学生。UMass的CE排名36
 
 Yongjoo Park, joining the computer science department at the University of Illinois at Urbana-Champaign in 2020, Research interest:I research and build systems for large-scale data analytics and machine learning. I have led VerdictDB, a system that enables approximate query processing on top of any SQL engines, which we are turning to a commercial project. https://yongjoopark.com/
 
-Nathan Dautenhahn, Assistant Professor in Rice Computer Science, Research Interest: Systems security, operating systems, virtualization, program analysis, microarchitecture. https://nathandautenhahn.com/
 
 Yan Gu（顾研）2012年毕业于清华计算机系，同年进入卡内基梅隆大学（Carnegie Mellon University，CMU）攻读博士学位。2018年，顾研从 CMU 取得博士学位毕业，并开始在 MIT 进行了一年的博士后工作。他有多年的信息学竞赛和 ACM ICPC 经历和经验，并且曾经在计算机图形学，计算机理论，并行算法等多个研究方向都有成果和论文发表。
 
