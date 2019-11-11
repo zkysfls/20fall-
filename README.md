@@ -231,3 +231,71 @@ Yihan Sun（孙艺瀚）2014年毕业于清华计算机系，并进入卡内基�
 I will start as an assistant professor at UC Santa Barbara Computer Science since Fall 2020. I am actively looking for PhD students and postdocs that are interested in doing reasearch in the intersection of (database) systems, formal methods, and applied crypto. Please apply to UCSB CS and also send me an email at shumo@ucsb.edu. https://shumochu.com/
 
 杜克大学Danyang Zhuo教授招系统和网络方向的phd学生。有意者请email(danyangz@berkeley.edu)。希望寻找对研究有热情，编程功底好的学生。
+
+*******************************************
+
+Weekly Digest 2019.11.4-2019.11.10
+
+Q: 申请时项目经历 用了 自己论文里的话 算抄袭吗？需不需要rephrase？
+
+* 不会的
+
+Q: 有没有申了austin啊，这个PIN码是个什么东西...?
+* 这个PIN码是UTEID的后四位
+
+Q: 求问，强COMMITTEE的话，套磁老师给了一个中性的回复（招人但是要等过了committee那一关）之后，，，后续有没有啥能做的啊。
+
+* 强committee这种一般是模板回复
+
+Q: 问一下sop里面是否建议写小标题呀
+* 普渡的sop要求就是建议小标题
+
+Q: 陶瓷的时候prof的名字写错了有什么补救措施嘛
+* 我就是套磁写错名字的...老师还给我回信了
+* 我名字写错了，一整个学校的老板都不回我了
+* 如果是小问题 足够强的话 没人会小题大做 所以没回信的直接归类于不够strong就比较好想通了
+* 直接再发一遍 覆盖前面的那封
+
+Q: uva是强committee吧
+* 偏向committee吧 但是也有教授拍板的
+
+Q: 大家知道老师项目会问到多细吗
+* 很看老师吧, 你万一碰上个刚好对你这很感兴趣的/反应特别快的，可以问到你怀疑人生
+* 自己的项目应该很熟悉的吧, 主要还是看你项目有没有做透
+* 看谁掌握讨论的主动权，你可以一直引导到你自己想讲的项目, 或者你干脆坦诚地说清楚你到底做了啥，特别熟的是啥
+* 绝大部分老师都不会去问细节的，就high level challenge你一下, 主要也是问你论文的project
+* 我之前做过商汤的面试官，我感觉学术面主要还是讨论你写的论文, 有的候选人虽然是一作，都是稍微问得深一点点，都不用走细节就能露怯
+* 别画大饼, 你要是真的没自信，就有啥说啥, 你自己都不 confidence，老师一听就听得出来
+* 一般来说能把研究的 motivation 和 background 都拎得很清楚就很不易了, 实事求是最重要，有些老师可能知道答案还故意问你的。实在不清楚也可以表达希望介绍自己想介绍对的项目吧。
+
+Q: cmu最多几个program昂
+* 3个phd项目, master好像另算。。。
+
+Q: UT Austin是强committee吗
+* 是的
+
+Q: 问一下，在 PS 里写帮助 minority 的经历对申请有帮助吗
+* 会的吧，很unique, 不过感觉需要和你的career goal契合, 要在相同的story底下
+
+招生广告
+
+澳大利亚国立大学郑良博士招收一至两名PhD学生，研究方向为计算机视觉和机器学习
+I am looking for PhD students with outstanding English ability, coding ability and motivation. A potential PhD student should have high GPA and rich experience in research. If you are a master student and intend to apply for a PhD, it is best you have publications in top venues like CVPR/ICCV/ECCV. Drop me an email if you are interested.
+
+If you are interested in a visiting scholar position, please be kindly reminded that I do not have funding for it. If you can secure externel funding support and if you are highly motivated and experienced in research, please drop me an email.
+
+To ANU students. If you are an ANU undergraduate student looking for an Honors project, please be advised that I usually take 2-3 honors students each year and that 24-unit projects are preferred. If you looking for Masters projects, the Master of Philosophy program is preferred. Please email me to arrange a discussion beforehand.
+http://www.liangzheng.com.cn/
+
+帮老师打广告:澳大利亚悉尼大学高俊斌教授招收三年全奖博士研究生。高老师专注研究机器学习、计算机视觉、数据处理方向多年，学术成果丰富。尤其欢迎有数学、统计、计算机基础的同学。有出国深造计划的同学可关注，高老师带你发PAMI带你飞
+
+A three year fully funded industry sponsored PhD scholarship is now calling for express of interests. We are targeting those high performing Honours graduates or Master graduates (e.g. from mainland China) major in Mathematics, Statistics, computer Science or Finance with good programming skills and interesting in Machine Learning. Please note according to The University of Sydney Business School admission requirements the international applicants should provide both IELTS (or TOEFL) and GRE. Any interesting students can contact Professor Junbin Gao with your CV and transcripts at junbin.gao@sydney.edu.au.  More details please refer to the official advertisement here https://sydney.edu.au/scholarships/a/raiz-invest-scholarship.html
+
+Junchen Jiang is an Assistant Professor of Computer Science at the University of Chicago. His research interests include computer networking and their intersections with machine learning. He received his PhD from Carnegie Mellon University in 2017 and bachelor from Tsinghua (Yao's Class) in 2011. He received CMU Computer Science Doctoral Dissertation Award in 2017 and Google Faculty Research Award in 2019. He has published extensively in top networking/systems conferences, including 13 papers in ACM SIGCOMM and USENIX NSDI. More about his research can be found at https://people.cs.uchicago.edu/~junchenj/
+
+The University of Chicago is among the most prestigious research universities in the world (ranked #6 by US News, #9 by World University Rankings, #10 by QS World). Its Computer Science Department is one of the fastest growing CS departments in the US. By academic publications (csranking), the computer systems research at UChicago is ranked #11 and its networking research is ranked #9. 
+
+Junchen will recruit 1-2 PhD students for Fall 2020. Application deadline is December 15, 2019. If you are interested, please contact him at junchenj@uchicago.edu
+
+一个记录各个学校申请材料要求的表格
+https://docs.google.com/spreadsheets/d/1Fi8UxU32Z6HJLx9mbiNogtk4L00YocNPLG_Vc3u4NUM
