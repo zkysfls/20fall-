@@ -299,3 +299,154 @@ Junchen will recruit 1-2 PhD students for Fall 2020. Application deadline is Dec
 
 一个记录各个学校申请材料要求的表格
 https://docs.google.com/spreadsheets/d/1Fi8UxU32Z6HJLx9mbiNogtk4L00YocNPLG_Vc3u4NUM
+
+*******************************************
+
+Weekly Digest 2019.11.11-2019.11.18
+
+Q: 托福一般两年是算到什么时候的, 申请ddl吗?
+
+* 有的学校会要求到入学, 看网站具体写的啥吧
+
+Q: cmu是不是进了学校以后选导师, ECE和CS差别会很大吗
+
+* ece有cs老板rotation满了不想收的风险, 最好提前讲. csd的老板未必愿意选ece的人, 除非你跟他认识
+
+Q: 求问有同学填了ucla的网申没有，他的gre registration number 为什么只能填7个数字呀 按理说registration number是16位呀
+
+* 看成绩单上那个
+
+其实我一直觉得读两篇老师的论文就去学术套是个很蠢的事情，还不如真诚一点，你读没读过做没做过，从你学术套提到的点和问得问题上一眼就能看出来，鲁莽地学术套感觉会把自己不那么精的一面直接暴露给老师。如果真的不相关还是真诚一点
+
+Q: 问一下如果对一个学校的多个组里的老师都有兴趣，SOP上要怎么写哇
+
+* 仅供参考
+* Although I am open to a variety of research, there are several professors at XXXXXXXXXXXX whose research are especially appealing to me
+
+Q: 问一个问题。套磁对方说，You seem to have the right background for students I look for, and you seem to be doing well. 然后抄送了一个现在和他一起工作的博后和另一个他之前的phd学生（和我一个本科学校，是啥意思…，是叫我联系他们吗？？
+
+* 我感觉就是导师让薄厚和PhD一起看看，评估一下背景
+* 这已经很positive啦，可能让他组里人看看要不要面你
+
+Q： 推薦信怎麽還要電話號碼啊
+
+* 有的要有的不要
+* 老师主页可能有办公室座机号
+* 可以填系里的
+
+Q: ps和sop的区别是？
+
+* 个人理解 正常学校SOP是写研究经历+研究兴趣+意向导师，PS是讲pursue graduate的心路历程（除了UC）
+* 我一个学姐跟我说 她sop写了童年经历 被教授吐槽了
+
+Q: 可以在ets.org送托福吗？怎么link到neea的考试记录...
+
+* 应该不可以，作为一个在他国考过托福的，被告知两者不共享信息
+
+招生广告
+
+We are advertising three 3-year PhD scholarships in algorithms at The University of Sydney, Australia.
+
+The successful applicant will conduct research with Joachim Gudmundsson,
+William Umboh, and André van Renssen in the Sydney Algorithms and Computing
+Theory (SACT) group.
+
+The specific topic will depend on the skills and interests of the student and could include for example computational geometry, network design, routing, trajectory analysis, approximation algorithms, and online algorithms.
+
+The Full Scholarship will provide tuition fees and annual stipend
+allowance of $27,082 per annum (indexed to the RTP rate) for up to three years,
+subject to satisfactory academic performance. The recipient may apply for an
+extension of up to 6 months.
+
+For more details about the positions and on how to apply:
+https://sydney.edu.au/scholarships/b/postgraduate-research-scholarship-in-algorithms.html
+
+Application date: 3 December 2019 (Sydney time).
+
+Please forward to anyone who might be interested.
+
+If you have any questions, you are welcome to mail us directly
+(joachim.gudmundsson@sydney.edu.au).
+
+UCSD Yi-An Ma: I am looking for students to be affiliated with UC San Diego's Computer Science and Engineering (CSE) department and Halıcıoğlu Data Science Institute (HDSI). My main research interests can be roughly summarized as probabilistic inference methods and their statistical guarantees. This endeavor is central to machine learning and spans fields of computation, statistics, optimization, and applied probability. Some of my recent and ongoing works lie at the intersection between MCMC and optimization. Via bridging MCMC and optimization, we are gaining deeper understanding about their relative advantage in terms of computation budget and have leveraged techniques in optimization to accelerate sampling methods for Bayesian inference.
+
+Interested students are welcome to apply to the UCSD CSE department and check that they would like to be advised by an HDSI faculty. It would be advantageous to come in with a background or strong interest of stochastic processes, dynamical systems and control, and optimization. I would love to talk in more depth if you are interested.
+
+深圳大数据研究招实习生 
+合作导师：张潼 叶海山
+主要研究内容：
+主要的研究内容为神经网络架构搜索和相关数学基础的研究。
+包括基于梯度，基于进化算法的神经网络架构搜索的研究，提出更加鲁棒，训练更加高效的搜索算法。
+通过分析bilevel优化算法，分析和解释当前神经网络架构搜索中出现的一些现象。
+
+要求：
+1. 熟悉深度学习基本算法，熟练使用tensor flow或者pytorch
+2. 有良好的数学基础，能分析深度学习中在遇到的一些问题
+3. 有神经网络架构设计或者搜索背景的优先
+4. 有丰富的编程经验优先
+
+联系邮箱：hsye_cs@outlook.com
+
+
+深圳大数据研究院招实习生 
+合作导师：张潼 杨柳莎 叶海山
+主要研究内容：
+1. 概念漂移的检测
+2. 时间序列数据的异常检测分类以及可解释性机器学习
+
+要求：
+1. 熟悉深度学习基本算法，熟练使用python等语言
+2. 有良好的数学基础
+3. 有丰富的编程经验优先
+
+联系邮箱：hsye_cs@outlook.com
+
+HDR UK/Turing PhD Programme: https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/
+
+UC Berkeley Research Group is hiring 2020 undergraduate research interns.
+
+About our group: We are affiliated to Berkeley RiseLab, AdeptLab, Berkeley AI Research and Berkeley Deep Drive. The faculty members include Kurt Kurtzer, Michael Mahoney, and Joseph Gonzalez. Our main research interests span a wide range of optimization and deep learning. Our current research projects include the second-order method, large batch training, adversarial attack/defense method, model compression/quantization, ODE Neural Networks, Differentiable Neural Architecture Search, NLP, etc. 
+
+For more details, projects with Zhewei and Tianjun include: 
+Deep Neural Network Quantization for efficient inference. (1 ICCV’19, 1 AAAI’20, and 2 CVPR‘20 under review)
+Second-order analysis for deep Neural Network (1 NIPS’18, 1 AISTAT’20 under review, and a bunch of related paper based on analysis)
+Large Scale Training and Analysis (1 AAAI’20, 1 NIPS’18 workshop, and 2 Arxiv pre-print)
+Neural ODE based efficient Neural Network design (1 NIPS’19, 2 on-going projects)
+Adversarial Attack/Defense (1 CVPR’19, 1 AISTAT’20 under review)
+Others (Second-order optimization in theory, DNN application on physical problems, 3 Journal paper under review)
+
+If you are coming, you will probably work on one (two) of followings:
+DNN Quantization
+DNN pruning
+NLP related Neural ODEs
+NLP Optimizer Design
+Quantization-aware Training
+Zero-shot distillation/pruning
+Efficient Architecture Design for 3D computer vision tasks
+Strategic adversarial attack for reinforcement learning
+Second order minimax optimization for reinforcement learning
+Some secret projects. 
+
+Requirements:
+Top GPA among your classmates
+Familiar with deep learning
+Familiar with Python and deep learning framework (PyTorch is preferred)
+At least work with us for 4 months during summer or (and) fall
+
+Note: 
+There will be two interviews
+We prefer to cooperate remotely from the spring semester
+Invitation letter will be provided for J-1 visa
+Stipend detail and other benefit will be discussed during interviews.
+
+What you get:
+Work closely to Berkeley Faculties
+Possibly get a (several) recommendation letter(s) from Berkeley Faculties
+
+Contact:
+Zhewei Yao
+zheweiy@berkeley.edu
+Tianjun Zhang
+tianjunz@berkeley.edu
+
+Zhewei Yao and Tianjun Zhang finished their undergrads from Shanghai Jiao Tong University (Math program in Zhiyuan college, UM-SJTU Joint Institute)
