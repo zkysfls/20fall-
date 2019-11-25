@@ -450,3 +450,102 @@ Tianjun Zhang
 tianjunz@berkeley.edu
 
 Zhewei Yao and Tianjun Zhang finished their undergrads from Shanghai Jiao Tong University (Math program in Zhiyuan college, UM-SJTU Joint Institute)
+************************************
+
+2019.11.19-2019.11.24
+
+Q: 问一下提交申请之后套辞算是什么操作啊
+
+* 一月后再套感觉没用，除非你已经拿到offer了
+* 我有个同学和某北美教授聊过，那个教授告诉他一月份套比较合适的
+* 哦对 还有一些老师会直接在主页说被录取之前别找他。。。
+
+Q: 如果有老板愿意捞的话 committee会很难过吗
+
+* 这个看学校吧, 而且也看你老板为了捞你愿意付出的东西了吧。。
+
+Q: UCLA 问Phd 有没有钱自我fund 第一年 要如实回答吗
+
+* 如实回答吧
+* 只是in case “系里没有钱”
+* 一般phd第一年rotation时拿的是系里的钱，第二年后定下来才是导师的钱，我听一个普林学姐说，之前ucsd经济状况差点到让学生自费第一年了。。。
+
+Q: 想问一下大家ps的经历是不是最好要和推荐信一一对应呢？就是说如果有的老师给的信比较少，那不用他的信的学校的ps写这段经历会不会有点尬
+
+* 不会啊…… 我觉得committee知道的
+
+招生广告
+
+CMU MLT 专业今年会新开一个track做computational linguistics, 要求有linguistics和cs背景。prof让我帮忙宣传一下～ 做NLP而且对cl感兴趣的同学欢迎申请！
+
+Purdue 大学 CS 系 Changhee Jung 博士课题组招体系机构和编译器方向的博士生，有意者最好具备如下的技能： 1．扎实的计算机体系结构基础，包括组成原理，体系结构，操作系统，编译汇编链接 2．扎实的 C / C++ 开发与调试功底 3．良好的英语能力。如果其他能力强，此条件可以放宽 4. 有下列顶会论文加分， MICRO. ISCA. ASPLOS. PLDI. ICSE. CGO. EMSOFT. RTAS. C CS. IEEE S&P. USENIX Security. 5．有深厚的编译器开发经验加分 6．有对microarchitecture 设计与实现的深厚基础加分录取者一般都能拿 RA assistantship, 不需要做 ta。https://www.cs.purdue.edu/homes/chjung/
+
+西北Gu Jie教授VLSI组，建组4年来疯狂发表多篇业界顶会(ISSCC, CICC, JSSC, VLSI, DAC)文章，Analog/ Digital/ Mixed -signal方向都有，funding充足，诚聘英才，最快可能春季就可入学 http://nu-vlsi.eecs.northwestern.edu/
+
+Multiple Ph.D., Postdoc, and Visiting Scholar Positions with Funding Support are Available at the University of Georgia
+
+Wenwen Wang is an Assistant Professor in the Department of Computer Science at the University of Georgia (UGA). His research interests have spanned a wide spectrum of critical issues in computer systems that cut across computer architectures, operating systems, compilers, runtimes, and security. His research work has been focused on (i) security and privacy issues in critical hardware and software systems, such as operating system kernels, (ii) performance, scalability, and energy problems in virtualization, runtime, and mobile systems, and (iii) testing, debugging, and diagnosing of parallel and concurrent systems. His overall research goal is to address the question of how we can build efficient, secure, and reliable computer systems in an era in which computing has become a ubiquitous part of our everyday life. His research has led to a series of research papers published in a range of competitive conferences that include ASPLOS, USENIX ATC, MobiSys, CCS, ASE, CGO, and VEE. Please visit his homepage for more information: http://cobweb.cs.uga.edu/~wenwen.
+
+His research group has multiple Ph.D., Postdoc, and Visiting Scholar positions available, with funding support. Please send him an email if you are interested.
+
+The Embedded Systems Lab at the University of Florida, led by Prof. Prabhat Mishra, invites applications
+for four fully-funded PhD positions in the area of design and verification of secure, energy-efficient
+and trustworthy systems. The lab conducts research in the area of embedded and cyber-physical
+systems, hardware security and trust, reconfigurable architecture, energy-aware computing, formal
+verification, system-on-chip validation, machine learning, and quantum computing. These projects are
+sponsored by both federal agencies (NSF, AFRL, ARO, AFOSR, and DARPA) and industry (SRC, Raytheon,
+Intel, Cisco, Harris, IBM). More information about our research can be found at: https://esl.cise.ufl.edu/
+Requirements: We are looking for energetic and self-motivated students with the following attributes:
+1. Exceptional undergraduate academic record from a reputed university (MS/ME is a plus).
+2. Strong background and expertise in one of the following areas:
+ Computer organization, data structures & algorithms, strong analytical and programming skills
+ Computer architecture, embedded systems, hardware programming (using VHDL or Verilog)
+ Hardware or software security, cryptography, design and verification of secure systems
+How to apply: If you are interested in applying for a Ph.D. position starting Fall 2020:
+ Please send me an email with your CV (highlighting relevant courses, overall GPA, notable
+awards/achievements, as well as any research/industry experience) to prabhat@ufl.edu
+ Please do not forget to apply to the CISE department for Fall 2020 admission by December 05, 2019
+deadline using the UF application webpage at https://www.applyweb.com/uflgrad/index.ftl
+About Department of Computer & Information Science & Engineering at University of Florida:
+The University of Florida is the flagship campus of the State of Florida university system and is ranked
+as the #7 best public US university according to US News and World Report. CISE is a vibrant,
+multidisciplinary highly-collaborative environment, consistently ranked among the top departments
+for both graduate and undergraduate programs. It offers BA, BS, MS, and PhD degrees in Computer
+Science and Computer Engineering, with an enrollment of 2,440 undergraduate students and 668
+graduate students of which 148 are PhD students. CISE is in the intersection of various world-class
+research initiatives at UF including cybersecurity, machine learning and internet-of-things. For
+example, UF has more than 25 faculty members and 100 Ph.D. students working in the board area of
+cybersecurity. Similarly, UF has been designated as a Center of Academic Excellence by the National
+Security Agency (NSA) in Cyber Defense Research. As a result, our cutting-edge cybersecurity research
+infrastructure as well as cybersecurity education program is one of the best in the world.
+
+Prof. Xi Peng, University of Delaware, research interests:Structural and Model-Oriented Deep Learning. https://sites.google.com/site/xipengcshomepage/home
+
+Job posting: AI for health @ SunLab, CS department@University of Illinois UrbanaChampaign (UIUC)
+-- Looking for gifted and devoted PhD students, postdoc and interns
+Artificial intelligence (AI) and machine learning (ML) are revolutionizing healthcare and
+medicine. Sunlab led by Prof. Jimeng Sun is the leading group in AI for health. Our papers on
+AAAI, IJCAI, KDD and NeurIPS on a wide range of AI4health tasks are cited thousands of times
+and have been used by leading healthcare institutions such as IQVIA, MGH, Sutter health,
+Emory, Children’s Healthcare of Atlanta, Anthem/BCBS, Optum, CDC and UCB.
+After 6 wonderful years at Georgia Tech, SunLab finds its new home at CS department@UIUC
+starting Jan 2020. Our research covers important topics in healthcare and medicine including
+1. Computational drug discovery
+2. Clinical trial optimization
+3. Computational phenotyping
+4. Clinical predictive models
+5. Health monitoring
+We developed novel computational methods in deep learning, graph analysis, matrix and tensor
+factorization, natural language processing (e.g., text generation), and continuous signal
+modeling.
+We are looking for candidates from the best universities with deep mathematical background,
+solid programming skills and great communication skills as well as passion in the health
+domain. Prior experiences in publications at top AI/ML venues are important. No prior
+knowledge in medicine/biology is required.
+Sunlab has extensive collaboration with industry. Research internships are often provided by
+our industry partner to our students.
+Please submit your applications by emailing sunlab1280@gmail.com with subject “Postdoc
+application”, “PhD application” or “Intern application”. Please include your CV, one of your paper
+and answer the following questions in plain text.
+• What is your favorite paper from SunLab and why?
+• What topic do you want to work on and why?
