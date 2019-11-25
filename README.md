@@ -541,17 +541,23 @@ starting Jan 2020. Our research covers important topics in healthcare and medici
 3. Computational phenotyping
 4. Clinical predictive models
 5. Health monitoring
+
 We developed novel computational methods in deep learning, graph analysis, matrix and tensor
 factorization, natural language processing (e.g., text generation), and continuous signal
 modeling.
+
 We are looking for candidates from the best universities with deep mathematical background,
 solid programming skills and great communication skills as well as passion in the health
 domain. Prior experiences in publications at top AI/ML venues are important. No prior
 knowledge in medicine/biology is required.
+
 Sunlab has extensive collaboration with industry. Research internships are often provided by
 our industry partner to our students.
+
 Please submit your applications by emailing sunlab1280@gmail.com with subject “Postdoc
 application”, “PhD application” or “Intern application”. Please include your CV, one of your paper
 and answer the following questions in plain text.
+
 • What is your favorite paper from SunLab and why?
+
 • What topic do you want to work on and why?
