@@ -499,13 +499,19 @@ Requirements: We are looking for energetic and self-motivated students with the 
 1. Exceptional undergraduate academic record from a reputed university (MS/ME is a plus).
 2. Strong background and expertise in one of the following areas:
  Computer organization, data structures & algorithms, strong analytical and programming skills
+
  Computer architecture, embedded systems, hardware programming (using VHDL or Verilog)
+
  Hardware or software security, cryptography, design and verification of secure systems
+
 How to apply: If you are interested in applying for a Ph.D. position starting Fall 2020:
+
  Please send me an email with your CV (highlighting relevant courses, overall GPA, notable
 awards/achievements, as well as any research/industry experience) to prabhat@ufl.edu
+
  Please do not forget to apply to the CISE department for Fall 2020 admission by December 05, 2019
 deadline using the UF application webpage at https://www.applyweb.com/uflgrad/index.ftl
+
 About Department of Computer & Information Science & Engineering at University of Florida:
 The University of Florida is the flagship campus of the State of Florida university system and is ranked
 as the #7 best public US university according to US News and World Report. CISE is a vibrant,
